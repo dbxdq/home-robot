@@ -40,7 +40,9 @@ piloting the robot. No independently verified home use yet.
 **Build:** start from one chore. The most buildable first skill is
 "pick up scattered objects and put them in a bin" — fixed-scene
 grasping and placing. A desktop SO-101 arm is where that starts; a
-mobile base comes later.
+mobile base comes later. The assembled form of both steps already
+exists as an open-source design: XLeRobot (LeRobot + 2× SO-101 on a
+$40 IKEA cart, ~$700 total — see `research/2026-11-17-xlerobot.md`).
 
 ## Starter parts
 
